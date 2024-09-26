@@ -1,0 +1,13 @@
+<!DOCTYPE html> <!--Mostra qual tipo do documento-->
+<html> <!--Afirma que inicia o Elemento Raíz-->
+<head> <!--Afirma onde inicia as Informações do Site-->
+<title>Lucaslandia</title> <!--Título da Página-->
+</head>
+
+<body> <!--Inicio Corpo do Site-->
+
+<h1>Bem-vindos à Lucaslandia</h1> <!--Cabeçalho 1-->
+<p>Esse site é bem útil... Pode ter certeza! (Eu não teria).</p> <!--Parágrafo do Cabeçalho-->
+
+</body> <!--Finalização do Corpo-->
+</html> <!--Afirma onde Finaliza HTML-->
